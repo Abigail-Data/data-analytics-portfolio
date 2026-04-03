@@ -131,13 +131,13 @@ Uses historical signup data to forecast future demand
 ### Forecast Dashboard
 ![Forecast Dashboard](forecast-dashboard-png.png)
 
+</> Markdown
 ## 📂 Files Included
-. Learner_Engagement_Dashboard.pbix
-![Learner Engagement Dashboard](insight Report(2).pdf)
-. Strategic_Insights_Report.pdf
-. Pitch_Presentation.pdf
-. dashboard_screenshots/
-. README.md
+. `interactive dashboard file.pbix` - Power BI Dashboard file
+. `insight Report (2).pdf` - Final written report
+. `ppt.pdf` - Final presentation slides
+. `dashboard_screenshots/` - Dashboard images
+. `README.md` - Project documentation
 
 ## 🚀 Outcome
 . This project demonstrates my ability to:
