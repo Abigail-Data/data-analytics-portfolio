@@ -123,13 +123,13 @@ Uses historical signup data to forecast future demand
 ![Overview Dashboard](overview-dashboard.png)
 
 ### Application Behavior Model
-![Application Behavior](application-behavior.png)
+![Application Behavior](application-behaviour-png.png)
 
 ### Engagement Scoring Model
-![Engagement Model](engargement-model.png)
+![Engagement Model](engargement-model-png.png)
 
 ### Forecast Dashboard
-![Forecast Dashboard](forecast-dashboard.png)
+![Forecast Dashboard](forecast-dashboard-png.png)
 
 ## 📂 Files Included
 . Learner_Engagement_Dashboard.pbix
