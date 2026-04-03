@@ -123,7 +123,7 @@ Uses historical signup data to forecast future demand
 ![Overview Dashboard](overview-dashboard.png)
 
 ### Application Behavior Model
-![Application Behavior](application-behaviour.png)
+![Application Behavior](application-behavior.png)
 
 ### Engagement Scoring Model
 ![Engagement Model](engargement-model.png)
