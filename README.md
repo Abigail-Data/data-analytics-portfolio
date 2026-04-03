@@ -133,6 +133,7 @@ Uses historical signup data to forecast future demand
 
 ## 📂 Files Included
 . Learner_Engagement_Dashboard.pbix
+![Learner Engagement Dashboard]()
 . Strategic_Insights_Report.pdf
 . Pitch_Presentation.pdf
 . dashboard_screenshots/
