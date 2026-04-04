@@ -21,12 +21,12 @@ This dataset contains learner participation and application records across multi
 
 It includes behavioral, temporal, and categorical variables such as:
 
-. Signup date and time
-. Opportunity category
-. Application timing
-. Region
-. Status description
-. Engagement-related features
+- Signup date and time
+- Opportunity category
+- Application timing
+- Region
+- Status description
+- Engagement-related features
 
 Note: Some fields, including age and opportunity date columns, were excluded due to missing values and source-level formatting issues.
 
@@ -34,86 +34,86 @@ Note: Some fields, including age and opportunity date columns, were excluded due
 
 Educational and opportunity-based programs often struggle with:
 
-. understanding learner engagement patterns,
-. identifying factors that influence application completion,
-. and planning future cohorts effectively.
+- understanding learner engagement patterns,
+- identifying factors that influence application completion,
+- and planning future cohorts effectively.
 
 This project was designed to answer the following questions:
 
-. What behavioral patterns influence learner completion?
-. How does application timing affect engagement?
-. Which learners show stronger engagement signals?
-. Can historical trends help forecast future signup demand?
+- What behavioral patterns influence learner completion?
+- How does application timing affect engagement?
+- Which learners show stronger engagement signals?
+- Can historical trends help forecast future signup demand?
 
 ## 🎯 Project Objectives
 
 The main objectives of this analysis were to:
 
-. Analyze learner signup and application behavior
-. Measure engagement patterns across users
-. Identify factors influencing completion
-. Build interactive dashboards for stakeholder decision-making
-. Forecast future application volume for cohort planning
+- Analyze learner signup and application behavior
+- Measure engagement patterns across users
+- Identify factors influencing completion
+- Build interactive dashboards for stakeholder decision-making
+- Forecast future application volume for cohort planning
 
 ## 🔍 Process
-1. Data Cleaning
-. Removed duplicate records
-. Standardized categorical fields
-. Handled missing values
-. Removed corrupted and empty columns
-. Resolved date formatting issues where possible
+#### 1. Data Cleaning
+- Removed duplicate records
+- Standardized categorical fields
+- Handled missing values
+- Removed corrupted and empty columns
+- Resolved date formatting issues where possible
 
-2. Feature Engineering
+#### 2. Feature Engineering
 Created new analytical features such as:
 
-. Days_to_Apply
-. Application_Speed
-. Engagement_Score
-. Engagement_Level
-. Signup_Month
-. Signup_Day_Name
-. Time_of_Day
+- Days_to_Apply
+- Application_Speed
+- Engagement_Score
+- Engagement_Level
+- Signup_Month
+- Signup_Day_Name
+- Time_of_Day
 
-3. Dashboard Development
+#### 3. Dashboard Development
 Built a multi-page Power BI dashboard including:
 
-. Overview Dashboard
-. Application Behavior Model
-. Engagement Scoring Model
-. Cohort Planning & Forecast Model
+- Overview Dashboard
+- Application Behavior Model
+- Engagement Scoring Model
+- Cohort Planning & Forecast Model
 
-4. Forecasting & Insights
-. Applied time-series forecasting to historical signup trends
-. Used trend analysis to support proactive planning
-. Interpreted behavioral patterns to derive actionable recommendations
+#### 4. Forecasting & Insights
+- Applied time-series forecasting to historical signup trends
+- Used trend analysis to support proactive planning
+- Interpreted behavioral patterns to derive actionable recommendations
 
 ## 📈 Key Insights
-. Learners who apply earlier tend to show higher engagement levels
-. Application speed is a strong indicator of learner commitment
-. Completion patterns vary by signup hour, day, and season
-. A small portion of users showed extreme delays in application activity
-. Historical trends reveal seasonal patterns useful for future cohort planning
+- Learners who apply earlier tend to show higher engagement levels
+- Application speed is a strong indicator of learner commitment
+- Completion patterns vary by signup hour, day, and season
+- A small portion of users showed extreme delays in application activity
+- Historical trends reveal seasonal patterns useful for future cohort planning
 . Behavioral indicators were more useful than incomplete demographic data
 
 ## 💡 Recommendations
-. Target communication during peak signup periods
-. Send reminders to delayed applicants
-. Prioritize support for low-engagement learners
-. Use region-specific engagement strategies
-. Monitor signup trends continuously for better cohort planning
-. Use forecast insights to support resource allocation
+- Target communication during peak signup periods
+- Send reminders to delayed applicants
+- Prioritize support for low-engagement learners
+- Use region-specific engagement strategies
+- Monitor signup trends continuously for better cohort planning
+- Use forecast insights to support resource allocation
 
 ## 📊 Dashboard Pages
-1. Overview & Key Metrics
+#### 1. Overview & Key Metrics
 Summarizes learner activity, completion trends, and major KPIs.
 
-2. Application Behavior Model
+#### 2. Application Behavior Model
 Examines how quickly learners apply and how timing affects engagement.
 
-3. Engagement Scoring Model
+#### 3. Engagement Scoring Model
 Classifies learners into high, medium, and low engagement groups.
 
-4. Cohort Planning & Forecast Model
+#### 4. Cohort Planning & Forecast Model
 Uses historical signup data to forecast future demand
 
 </> Markdown
@@ -133,18 +133,18 @@ Uses historical signup data to forecast future demand
 
 </> Markdown
 ## 📂 Files Included
-. `interactive dashboard file.pbix` - Power BI Dashboard file
-. `insight Report (2).pdf` - Final written report
-. `ppt.pdf` - Final presentation slides
-. `dashboard_screenshots/` - Dashboard images
-. `README.md` - Project documentation
+- `interactive dashboard file.pbix` - Power BI Dashboard file
+- `insight Report (2).pdf` - Final written report
+- `ppt.pdf` - Final presentation slides
+- `dashboard_screenshots/` - Dashboard images
+- `README.md` - Project documentation
 
 ## 🚀 Outcome
-. This project demonstrates my ability to:
-. clean and structure data,
-. create interactive dashboards,
-. generate business insights,
-. and communicate analytical findings clearly for decision-making.
+- This project demonstrates my ability to:
+- clean and structure data,
+- create interactive dashboards,
+- generate business insights,
+- and communicate analytical findings clearly for decision-making.
 
 ## 👩🏽‍💻 Author
 Abigail Alabi
