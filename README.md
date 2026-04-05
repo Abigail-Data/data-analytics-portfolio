@@ -116,7 +116,7 @@ Classifies learners into high, medium, and low engagement groups.
 #### 4. Cohort Planning & Forecast Model
 Uses historical signup data to forecast future demand
 
-</> Markdown
+
 ## 📸 Dashboard Preview
 ### Overview Dashboard
 
