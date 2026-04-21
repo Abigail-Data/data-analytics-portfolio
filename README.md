@@ -1,6 +1,6 @@
 # Learner Engagement, Completion & Cohort Planning Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project explores learner signup behavior, application completion patterns, engagement levels, and future cohort demand using Power BI.
 
 The analysis was designed to help stakeholders understand:
@@ -10,13 +10,13 @@ The analysis was designed to help stakeholders understand:
 
 The final output includes interactive dashboards, behavioral models, engagement scoring, and forecasting insights to support data-driven decision-making.
 
-## 📊 Tool Used
+##  Tool Used
 Power BI
 Excel / CSV
 Basic forecasting features in Power BI
 Data cleaning and transformation techniques
 
-## 📁 Dataset
+##  Dataset
 This dataset contains learner participation and application records across multiple opportunities such as courses, internships, and events.
 
 It includes behavioral, temporal, and categorical variables such as:
@@ -30,7 +30,7 @@ It includes behavioral, temporal, and categorical variables such as:
 
 Note: Some fields, including age and opportunity date columns, were excluded due to missing values and source-level formatting issues.
 
-## ❓ Problem Statement
+##  Problem Statement
 
 Educational and opportunity-based programs often struggle with:
 
@@ -45,7 +45,7 @@ This project was designed to answer the following questions:
 - Which learners show stronger engagement signals?
 - Can historical trends help forecast future signup demand?
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this analysis were to:
 
@@ -55,7 +55,7 @@ The main objectives of this analysis were to:
 - Build interactive dashboards for stakeholder decision-making
 - Forecast future application volume for cohort planning
 
-## 🔍 Process
+## Process
 #### 1. Data Cleaning
 - Removed duplicate records
 - Standardized categorical fields
@@ -87,7 +87,7 @@ Built a multi-page Power BI dashboard including:
 - Used trend analysis to support proactive planning
 - Interpreted behavioral patterns to derive actionable recommendations
 
-## 📈 Key Insights
+## Key Insights
 - Learners who apply earlier tend to show higher engagement levels
 - Application speed is a strong indicator of learner commitment
 - Completion patterns vary by signup hour, day, and season
@@ -95,7 +95,7 @@ Built a multi-page Power BI dashboard including:
 - Historical trends reveal seasonal patterns useful for future cohort planning
 . Behavioral indicators were more useful than incomplete demographic data
 
-## 💡 Recommendations
+## Recommendations
 - Target communication during peak signup periods
 - Send reminders to delayed applicants
 - Prioritize support for low-engagement learners
@@ -132,14 +132,14 @@ Uses historical signup data to forecast future demand
 ![Forecast Dashboard](forecast-dashboard-png.png)
 
 </> Markdown
-## 📂 Files Included
+## Files Included
 - `interactive dashboard file.pbix` - Power BI Dashboard file
 - `insight Report (2).pdf` - Final written report
 - `ppt.pdf` - Final presentation slides
 - `dashboard_screenshots/` - Dashboard images
 - `README.md` - Project documentation
 
-## 🚀 Outcome
+## Outcome
 - This project demonstrates my ability to:
 - clean and structure data,
 - create interactive dashboards,
